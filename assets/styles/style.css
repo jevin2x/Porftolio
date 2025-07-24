@@ -1,0 +1,14 @@
+@import "navigation.css";
+@import "hero.css";
+@import "about-banner.css";
+@import "projects.css";
+@import "contact.css";
+@import "footer.css";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
