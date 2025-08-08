@@ -1,0 +1,26 @@
+button{
+    padding: 10px;
+    font-family:'Comic Sans MS', 'Comic Neue', cursive, sans-serif ;
+    cursor: pointer;    
+     border-radius: 5px;
+    
+}
+.primary-button{
+    background-color: rgb(92, 90, 90);
+    border: 1px solid transparent;
+    color: white;
+
+    
+    
+}
+.primary-button:hover{
+    background-color: black;
+    transition: 0.2s ease-in-out;
+
+}
+.secondary-button:hover{
+   background-color: rgb(176, 182, 187);
+   transition: 0.2s ease-in-out;
+
+}
+
